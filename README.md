@@ -17,4 +17,4 @@
 
 ## Certifications
 
-<a href="https://atsqa.org/certified-testers/profile/8a03b07f64394d0583a35c57b0c75469" target="_blank"><img src="https://atsqa.org/assets/images/badges/CTFL-badge.png" alt="CTFL Badge" width="20" height="20">ASTQB – ISTQB Certified Tester (Foundation Level)</a>
+<a href="https://atsqa.org/certified-testers/profile/8a03b07f64394d0583a35c57b0c75469" target="_blank"><img src="https://atsqa.org/assets/images/badges/CTFL-badge.png" alt="CTFL Badge" width="20" height="20">ASTQB – ISTQB Certified Tester</a>
