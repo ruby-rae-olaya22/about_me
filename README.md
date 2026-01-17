@@ -89,7 +89,7 @@ Validated data accuracy, consistency, and execution in backend databases and rep
 - <a href="https://atsqa.org/certified-testers/profile/8a03b07f64394d0583a35c57b0c75469" target="_blank"><img src="https://atsqa.org/assets/images/badges/CTFL-badge.png" alt="CTFL Badge" width="20" height="20">ASTQB – ISTQB Certified Tester</a>
 
 ## Contact
-- **Email:** <a href="mailto:ruby.rae.olaya@gmail.com" target="_blank"> 
-- **LinkedIn:** <a href="https://linkedin.com/in/ruby-rae-olaya22" target="_blank">
+- Email: ruby.rae.olaya@gmail.com 
+- LinkedIn: https://linkedin.com/in/ruby-rae-olaya22
 
 > This repository showcases my testing approach, documentation quality, and collaboration within Agile development environments.
