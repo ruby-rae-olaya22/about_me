@@ -86,7 +86,7 @@ Validated data accuracy, consistency, and execution in backend databases and rep
 - Promoted QA best practices within cross-functional development teams.
 
 ## Certifications & Learning
-- <a href="https://atsqa.org/certified-testers/profile/8a03b07f64394d0583a35c57b0c75469" target="_blank"><img src="https://atsqa.org/assets/images/badges/CTFL-badge.png" alt="CTFL Badge" width="20" height="20">ASTQB – ISTQB Certified Tester</a>
+- <a href="https://atsqa.org/certified-testers/profile/8a03b07f64394d0583a35c57b0c75469" target="_blank"><img src="https://atsqa.org/assets/images/badges/CTFL-badge.png" alt="CTFL Badge" width="20" height="20">ASTQB – ISTQB CTFL</a>
 
 ## Contact
 - Email: ruby.rae.olaya@gmail.com 
