@@ -1,95 +1,68 @@
+# Hi, I'm Ruby
+<p>QA Engineer with 6+ years of experience in manual and API testing</p> 
+<p>Currently transitioning into Automation QA (Playwright, Selenium)</p>
+<p>Based in the Philippines</p>
+
 ## About Me
-<h2>Hi, I'm Ruby</h2>
-<p>Detail-oriented Software Quality Assurance Tester with hands-on experience in manual testing of web and mobile applications. Skilled in requirement analysis, test case design, defect tracking, API testing, database validation, and Agile methodologies. Committed to delivering reliable, high-quality software through structured testing practices.</p>
+<p>I’m a Quality Assurance Engineer focused on building reliable, high-quality software through structured testing and continuous improvement.</p>
+<p>Over the past 6+ years, I’ve worked on web and mobile applications—reducing defects, improving test coverage, and collaborating closely with developers in Agile teams.</p>
+<p>Recently, I’ve been actively upskilling in <strong>test automation</strong>, building hands-on projects using <strong>Playwright, Selenium, and API testing tools</strong>.</p>
 
-## Skills & Tools
-### Testing Types
-- Manual Testing  
-- Functional Testing  
-- Regression Testing  
-- Smoke & Sanity Testing  
-- User Acceptance Testing (UAT)  
-- API Testing 
+## Tech Stack
+**Automation & Testing**
+- Playwright (JavaScript) 
+- Selenium WebDriver (Java)  
+- API Testing (Postman, Newman)
 
-### Tools & Technologies
-- JIRA  
-- Postman  
-- SQL / MySQL
+**Programming**
+- JavaScript, Java, SQL, C#, PHP
 
-### Methodologies
-- Agile / Scrum  
+**Tools**
+- Jira, ClickUp
+- Git, GitHub
+
+**Practices**
+- Agile / Scrum
 - SDLC / STLC
+- Test Design & Defect Analysis
 
 ## Key Projects
-### Project 1: Hotel Booking Web & Mobile Application
-**Type:** Web and Mobile Application Testing  
-**Description:**  
-Tested a hotel booking platform across web and mobile interfaces, ensuring seamless functionality and user experience.
-**Responsibilities:**
-- Analyzed business and technical requirements to ensure clarity and alignment with project objectives.
-- Developed and executed manual test cases for functional and regression testing across web and mobile platforms.
-- Reported, tracked, and validated defects using JIRA, ensuring timely resolution.
-- Collaborated closely with developers during Agile sprints to maintain release schedules.
-- Performed UI and functional testing on multiple mobile devices to ensure consistency.
-- Validated application behavior under different network conditions and scenarios.
-- Conducted smoke and regression testing prior to each release.
+### Playwright End-to-End Testing Suite
+- Cross-browser automation using Playwright
+- Covers critical user flows with headless execution
+- Handles dynamic elements and modern UI behavior
+- Includes assertions, test isolation, and reusable components
+<p>Github repo link: </p>
 
-### Project 2: CMS Web Application
-**Type:** Web Application Testing  
-**Description:**  
-Tested a content management system (CMS) for functionality, usability, and reliability in a web environment.
-**Responsibilities:**
-- Reviewed requirements to confirm technical feasibility and completeness.
-- Designed and executed comprehensive manual test cases for functional, regression, and smoke testing.
-- Logged, tracked, and verified defects using JIRA, ensuring issues were resolved efficiently.
-- Coordinated with developers and QA team members during Agile sprints to support iterative releases.
-- Performed cross-browser testing to ensure consistent behavior and user experience.
+### Selenium Automation Framework (Java + Cucumber)
+- Built using Page Object Model (POM)
+- Integrated BDD with Cucumber & Gherkin
+- Automated login, validation, and form flows
+- Designed for scalability and maintainability
+<p>Github repo link: </p>
 
-### Project 3: E-Learning & Directory Mobile Application – Women’s Health
-**Type:** Web and Mobile Application Testing  
-**Description:**  
-Tested a mobile application for women’s health education and directory services, integrated with a Content Management System (CMS) to manage educational content and user resources efficiently.
-**Responsibilities:**
-- Analyzed business and technical requirements to ensure clarity, completeness, and CMS content workflows coverage.
-- Developed and executed manual test cases for functional, UI, and regression testing across mobile platforms.
-- Validated CMS content publishing, updates, and user-facing display for accuracy and consistency.
-- Logged, tracked, and verified defects in JIRA, collaborating with developers for timely resolution.
-- Conducted functional and UI testing across multiple mobile devices and operating systems.
-- Tested application performance and behavior under varying network conditions.
-- Performed smoke and regression testing before each release to ensure stability and content integrity.
+### API Testing Suite (Postman + Newman)
+- REST API validation with automated test scripts
+- Covers status codes, response data, and edge cases
+- CLI execution using Newman
+- Structured for CI/CD integration
+<p>Github repo link: </p>
 
-### Project 4: API Testing – Backend Services
-**Type:** API Testing  
-**Description:**  
-Tested RESTful APIs supporting web and mobile applications to ensure accurate data exchange and backend reliability.
-**Responsibilities:**
-- Developed and executed API test cases using Postman to validate endpoints, responses, and error handling.
-- Verified API functionality against functional requirements and technical specifications.
-- Validated data integration between frontend, backend, and database layers.
-- Logged, tracked, and verified defects using JIRA, collaborating with developers for timely resolution.
-- Conducted regression and smoke testing on APIs before deployment to ensure reliability.
+## What I'm Currently Working On
+- Improving Playwright automation (fixtures, parallel execution) 
+- Strengthening test framework design
+- Learning CI/CD integration (GitHub Actions)
+- Expanding API automation coverage
 
-### Project 5: Database & Data Validation
-**Type:** Data Validation Testing
-**Description:**  
-Validated data accuracy, consistency, and execution in backend databases and reporting systems.
-**Responsibilities:**
-- Executed SQL queries to verify data integrity and accuracy.
-- Ran and monitored database cron jobs for heavy data execution and processing.
-- Validated data consistency across multiple systems and reports.
-- Logged and tracked database-related defects in JIRA, working with developers for resolution.
-- Supported UAT and production data validation activities, ensuring alignment with business requirements.
-
-## Agile Experience
-- Participated in sprint planning, daily stand-ups, sprint reviews, and release testing.  
-- Presented completed features during sprint reviews to stakeholders.  
-- Promoted QA best practices within cross-functional development teams.
+## Career Goal
+<p>To grow into an <strong>Automation QA / SDET role</strong>, building scalable test frameworks and contributing to high-quality, reliable systems.</p>
 
 ## Certifications & Learning
 - <a href="https://atsqa.org/certified-testers/profile/8a03b07f64394d0583a35c57b0c75469" target="_blank"><img src="https://atsqa.org/assets/images/badges/CTFL-badge.png" alt="CTFL Badge" width="20" height="20">ASTQB – ISTQB CTFL</a>
 
-## Contact
+## Let's Connect
 - Email: ruby.rae.olaya@gmail.com 
 - LinkedIn: https://linkedin.com/in/ruby-rae-olaya22
 
 > This repository showcases my testing approach, documentation quality, and collaboration within Agile development environments.
+> Thanks for visiting my profile!
