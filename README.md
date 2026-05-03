@@ -46,7 +46,7 @@
 - Covers status codes, response data, and edge cases
 - CLI execution using Newman
 - Structured for CI/CD integration
-<p>Github repo link: </p>
+<p>Github repo link: <a href='https://www.postman.com/ruby-rae-olaya-1375659/workspace/restful-booking-qa-automation-suite'>https://www.postman.com/ruby-rae-olaya-1375659/workspace/restful-booking-qa-automation-suite</a></p>
 
 ## What I'm Currently Working On
 - Improving Playwright automation (fixtures, parallel execution) 
